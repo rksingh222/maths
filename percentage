@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            height: 100%;
+            width: 100%;
+            background: #f5f6fa;
+        }
+
+        div {
+            color: #67727e;
+            font-size: 20px;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        1. Percentage <br>
+        formula
+        if you have an area = length * breadth
+        if you want to keep area constant
+        length increases by 20% and we need to determine how much a breadth should reduce to get constant value
+        the formula is if it is lenght increases by 1/x then the breadth decreases by 1/(x+1)
+        
+        however if it is mentioned that length decreases by 1/x then breadth should increase by 1/x-1
+        
+        2. some percentages to remember
+        1/6 = 16.67
+        1/7 = 14.28
+        1/8 = 12.5
+        1/9 = 11.1
+    </div>
+</body>
+
+</html>
